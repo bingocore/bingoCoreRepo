@@ -1,0 +1,2 @@
+# bingoCoreRepo
+bingoCore Repository
